@@ -1,1 +1,18 @@
 this is some random text in the randomtext
+#### Bis 180L Partner
+##### Jackie
+major: **genetics and genomics**  
+Year: _senior_   
+
+ | cities | schools | classes |  
+ | :----- | :------ | :------ |
+ | Davis |UCD    |BIS180L|
+|SF    |UCSF   |MCB 182|
+|LA    |UCLA   |BIS 164|
+
+Likes:
+* dogs
+* coffee
+* spring 
+* flowers  
+[a relevant website to Jackie](www.youtube.com)
